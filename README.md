@@ -27,7 +27,3 @@ password = input("Enter your password: ")
 strength = check_password_strength(password)
 
 print(f"Password Strength: {strength}/5")
-
-
-
-
